@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Week5Daily2</string>
+    <string name="name">Name</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="street_address">Street Address</string>
+    <string name="city">City</string>
+    <string name="zipcode">Zipcode</string>
+    <string name="enter_first_name">Enter First Name</string>
+    <string name="enter_last_name">Enter Last Name</string>
+    <string name="enter_street_address">Enter Street Address</string>
+    <string name="enter_city">Enter City</string>
+    <string name="enter_zip_code">Enter Zip Code</string>
+    <string name="submit_inputs">Submit Inputs</string>
+    <string name="enter_state">Enter State</string>
+    <string name="state">State</string>
+</resources>
